@@ -1,0 +1,6 @@
+[submodule "alx-backend"]
+	path = alx-backend
+	url = https://github.com/buelersandra/alx-backend.git
+[submodule "alx-frontend"]
+	path = alx-frontend
+	url = https://github.com/buelersandra/alx-frontend.git
